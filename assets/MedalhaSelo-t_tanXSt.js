@@ -1,0 +1,1 @@
+import{m as s,a as t,b as l,f as o,t as r,I as d}from"./index-CRIUjEUX.js";const m={__name:"MedalhaSelo",props:{medalha:{type:Object,required:!0}},setup(a){return(n,e)=>(s(),t("span",{class:d(["ds-medalha","is-"+a.medalha.codigo.toLowerCase()])},[e[0]||(e[0]=l("span",{class:"visually-hidden"},"Medalha de ",-1)),o(r(a.medalha.titulo),1)],2))}};export{m as _};
